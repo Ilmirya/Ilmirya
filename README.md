@@ -1,4 +1,4 @@
- 👋 Hi, I’m Ilmir Yanturin.
+ 👋 Hi, I’m Ilmir Yanturin.</br>
  🏢 I'm a fullstack developer at MatrixIT;
  👨‍💻 My main stack is .Net, AngularJs ar work 
  👀 I’m interested in Mobile Develop
