@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I’m Ilmir</h1>
 <p align="center">🏢 I'm a fullstack developer at MatrixIT; </p>
 <p align="center">👨‍💻 My main stack is .Net, AngularJs at work </p>
-<p align="center">👀 I’m also interested in Mobile Develop </p>
-<p align="center">🌱 I’m currently learning Flutter </p>
 <p align="center">📫 Email: ilmir.yanturin@gmail.com </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/yanturinilmir" rel="nofollow">
